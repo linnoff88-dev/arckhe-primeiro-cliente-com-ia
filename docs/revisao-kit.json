@@ -1,0 +1,14 @@
+{
+  "veredito": "aprovado",
+  "nota": 8,
+  "revisor": "agente independente novo",
+  "observacoes": [
+    "Mediana precisa de explicação",
+    "Demo precisa ser acessível pelo guia"
+  ],
+  "correcoes": [
+    "Exemplo com cinco valores e fórmulas na ficha05",
+    "Link da demo no passo2 e instruções de extração doZIP"
+  ],
+  "verificacao": "Browser390/1440emPT/EN/ES; tradução checkOK; links locais e ZIP disponíveis"
+}

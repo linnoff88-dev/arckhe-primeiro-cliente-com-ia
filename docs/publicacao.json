@@ -1,0 +1,67 @@
+{
+  "kit": "https://inematds.github.io/primeiro-cliente-com-ia/guia/",
+  "repo": "https://github.com/inematds/primeiro-cliente-com-ia",
+  "kit_commit": "c233498",
+  "portal": "d4d9bd9",
+  "buscas": "fb4544c",
+  "pro": "13778a5",
+  "catalogo_total": 19727,
+  "catalogo_fontes": {
+    "resumo": 2746,
+    "wiki": 157,
+    "projeto": 448,
+    "clip": 13123,
+    "live": 1426,
+    "curso": 384,
+    "telegram": 3,
+    "prompt": 1440
+  },
+  "validacao": "URLs200, browser390/1440 PT/EN/ES sem overflow,13testes portal e content-base aprovados",
+  "avatar_explicativo": "a0e3a92611b54fffa143297a9d0114b6",
+  "r7ex": "/home/nmaldaner/projetos/r7ex/edicoes/2026-11-16-primeiro-cliente-com-ia",
+  "telegram": "https://t.me/c/3650752323/4099",
+  "telegram_topico": 4099,
+  "telegram_menu": 4113,
+  "r7ex_avatar": "4c75f6cd151c468dbb78c75596a8c8ec",
+  "video_status": "Explicativo publicado; Short agendado para 16/11/2026 17:11 America/Sao_Paulo",
+  "videos": {
+    "explicativo": {
+      "url": "https://www.youtube.com/watch?v=uAglGik71Jw",
+      "video_id": "uAglGik71Jw",
+      "estado": "publicado",
+      "duration": 217.258,
+      "qa": "Aprovado com aviso inspecionado; 15% área lisa; revisão 8",
+      "legenda_youtube": false,
+      "legenda_motivo": "OAuth lives1 sem youtube.force-ssl; SRT/VTT e legenda gravada disponíveis"
+    },
+    "short": {
+      "video_id": "URUDv6797FU",
+      "url": "https://www.youtube.com/watch?v=URUDv6797FU",
+      "publish_at": "2026-11-16 17:11 (America/Sao_Paulo)",
+      "estado": "agendado",
+      "duration_label": "45 s"
+    }
+  },
+  "player": "https://inematds.github.io/primeiro-cliente-com-ia/videos/",
+  "release": "https://github.com/inematds/primeiro-cliente-com-ia/releases/tag/video-v1.0.0",
+  "portal_videos": "89c82ff",
+  "portal_videos_url": "https://inema.club/videos/",
+  "telegram_videos": {
+    "topico": 4099,
+    "mensagens": [
+      4130,
+      4131
+    ],
+    "url": "https://t.me/c/3650752323/4131",
+    "conferido": true
+  },
+  "pages_video_commit": "346b5cc",
+  "pages_video_action": 43936270709,
+  "release_arquivos": [
+    "primeiro-cliente-com-ia.mp4",
+    "primeiro-cliente-com-ia.srt",
+    "primeiro-cliente-com-ia-short.mp4",
+    "primeiro-cliente-com-ia-short.srt"
+  ],
+  "verificacoes": "11 URLs públicas acessíveis; player390/1440 e guias PT/EN/ES sem overflow; portal13testes/tsc/build webpack aprovados"
+}
