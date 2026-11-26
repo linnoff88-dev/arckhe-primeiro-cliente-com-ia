@@ -1,6 +1,6 @@
 {
-  "kit": "https://inematds.github.io/primeiro-cliente-com-ia/guia/",
-  "repo": "https://github.com/inematds/primeiro-cliente-com-ia",
+  "kit": "https://linnoff88-dev.github.io/arckhe-/guia/",
+  "repo": "https://github.com/linnoff88-dev/primeiro-cliente-com-ia",
   "kit_commit": "c233498",
   "portal": "d4d9bd9",
   "buscas": "fb4544c",
@@ -42,10 +42,10 @@
       "duration_label": "45 s"
     }
   },
-  "player": "https://inematds.github.io/primeiro-cliente-com-ia/videos/",
-  "release": "https://github.com/inematds/primeiro-cliente-com-ia/releases/tag/video-v1.0.0",
+  "player": "https://linnoff88-dev.github.io/arckhe-/videos/",
+  "release": "https://github.com/linnoff88-dev/primeiro-cliente-com-ia/releases/tag/video-v1.0.0",
   "portal_videos": "89c82ff",
-  "portal_videos_url": "https://inema.club/videos/",
+  "portal_videos_url": "https://ARCKHÉ AI/videos/",
   "telegram_videos": {
     "topico": 4099,
     "mensagens": [

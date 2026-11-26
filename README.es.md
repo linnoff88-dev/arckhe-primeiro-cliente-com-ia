@@ -2,7 +2,7 @@
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
-[![Primer Cliente con IA](guia/assets/banner.jpg)](https://inematds.github.io/primeiro-cliente-com-ia/guia/es/)
+[![Primer Cliente con IA](guia/assets/banner.jpg)](https://linnoff88-dev.github.io/arckhe-/guia/es/)
 
 ## Qué es
 
@@ -10,8 +10,8 @@ Un kit gratuito para quienes están aprendiendo inteligencia artificial y quiere
 
 ## Guía y kit
 
-- [Guía gratuita](https://inematds.github.io/primeiro-cliente-com-ia/guia/es/)
-- [Descargar el kit](https://inematds.github.io/primeiro-cliente-com-ia/guia/es/primeiro-cliente-kit.zip)
+- [Guía gratuita](https://linnoff88-dev.github.io/arckhe-/guia/es/)
+- [Descargar el kit](https://linnoff88-dev.github.io/arckhe-/guia/es/primeiro-cliente-kit.zip)
 - [Plantillas de trabajo](kit/)
 
 ## Cómo usar
