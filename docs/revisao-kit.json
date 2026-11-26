@@ -3,12 +3,12 @@
   "nota": 8,
   "revisor": "agente independente novo",
   "observacoes": [
-    "Mediana precisa de explicação",
+    "Mediana precisa de explicaçêo",
     "Demo precisa ser acessível pelo guia"
   ],
   "correcoes": [
     "Exemplo com cinco valores e fórmulas na ficha05",
-    "Link da demo no passo2 e instruções de extração doZIP"
+    "Link da demo no passo2 e instruções de extraçêo doZIP"
   ],
-  "verificacao": "Browser390/1440emPT/EN/ES; tradução checkOK; links locais e ZIP disponíveis"
+  "verificacao": "Browser390/1440emPT/EN/ES; traduçêo checkOK; links locais e ZIP disponíveis"
 }

@@ -2,9 +2,9 @@
 
 Objetivo: terminar com UM tipo de negócio e um problema que você consegue demonstrar.
 
-Avalie cada nicho de zero a dois nos critérios: você consegue falar com o responsável; o negócio já investe na operação; uma melhoria tem valor reconhecível; você consegue encontrar outros negócios parecidos; você consegue entregar com as ferramentas que domina.
+Avalie cada nicho de zero a dois nos critérios: você consegue falar com o responsável; o negócio já investe na operaçêo; uma melhoria tem valor reconhecível; você consegue encontrar outros negócios parecidos; você consegue entregar com as ferramentas que domina.
 
-Zero = não sei ou não consigo. Um = tenho indícios. Dois = confirmei em conversa ou observação. A nota organiza hipóteses, não prevê vendas.
+Zero = nêo sei ou nêo consigo. Um = tenho indícios. Dois = confirmei em conversa ou observaçêo. A nota organiza hipóteses, nêo prevê vendas.
 
 Nicho escolhido:
 Como encontro negócios desse tipo:
@@ -14,4 +14,4 @@ O que consigo demonstrar sem acesso a dados internos:
 Quanto tempo vou reservar para a amostra:
 Qual pergunta preciso fazer antes de construir:
 
-Exemplo hipotético: oficinas do bairro; telefone escondido no site no celular; demonstrar uma página de serviços com contato visível. Não presume que o dono queira comprar.
+Exemplo hipotético: oficinas do bairro; telefone escondido no site no celular; demonstrar uma página de serviços com contato visível. Nêo presume que o dono queira comprar.
